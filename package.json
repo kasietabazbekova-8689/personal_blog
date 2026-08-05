@@ -11,18 +11,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kasietabazbekova-8689/bank-website.git"
+    "url": "git+https://github.com/kasietabazbekova-8689/personal_blog.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
   "bugs": {
-    "url": "https://github.com/kasietabazbekova-8689/bank-website/issues"
+    "url": "https://github.com/kasietabazbekova-8689/personal_blog/issues"
   },
-  "homepage": "https://github.com/kasietabazbekova-8689/bank-website#readme",
+  "homepage": "https://github.com/kasietabazbekova-8689/personal_blog#readme",
   "devDependencies": {
-    "@tailwindcss/vite": "^4.3.2",
+    "@tailwindcss/vite": "^4.3.3",
     "@vitejs/plugin-react": "^6.0.3",
     "autoprefixer": "^10.5.3",
     "lucide-react": "^1.24.0",
