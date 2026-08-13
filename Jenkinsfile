@@ -9,7 +9,7 @@ pipeline {
 
         AWS_REGION = "us-east-2"
         AWS_ACCOUNT_ID = "473479140221"
-        ECR_REPOSITORY = "personal-blog"
+        ECR_REPOSITORY = "personal_blog"
     }
 
     stages {
